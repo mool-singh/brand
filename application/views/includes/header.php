@@ -16,7 +16,7 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="<?=base_url('assets/admin-assets')?>/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="<?=base_url('assets')?>/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="<?=base_url()?>assets/plugins/toastr/toastr.min.css">
 	<!-- # CSS Plugins -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
